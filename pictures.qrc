@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/pictures"/>
+    <qresource prefix="/">
+        <file>blackboard.jpg</file>
+        <file>Chalk line.PNG</file>
+        <file>stage1.png</file>
+        <file>stage2.png</file>
+        <file>stage3.png</file>
+        <file>stage4.png</file>
+        <file>stage5.png</file>
+        <file>stage6.png</file>
+        <file>stage0.png</file>
+        <file>sponge.png</file>
+    </qresource>
+</RCC>
